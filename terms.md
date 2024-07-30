@@ -1,4 +1,4 @@
-Terms of Service for VoxStat
+# Terms of Service for VoxStat
 Last updated: 30-7-2024
 
 These Terms of Service govern your use of VoxStat and the VoxStat Bot. By using the Bot, you agree to these Terms. If you do not agree to these Terms, please do not use the Bot.
